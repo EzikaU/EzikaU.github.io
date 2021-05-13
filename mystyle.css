@@ -16,10 +16,8 @@ p {
 }
 
 ul a {
-    text-decoration: none;
     margin-bottom: 20px;
-    font-size: 24px;
-    font-weight: 500;
+    font-weight: 600;
     list-style-position: inside;	
 }
 
