@@ -5,9 +5,9 @@ body {
 
 h1,h2,h3,h4,h5,h6 {
     font-weight:bold;
-    color:#00FF00;
-    background-color:yellow;
-	font-family: Verdana, Sans-Serif;
+    color: #B24968;
+    text-align:center;
+    font-family: Verdana, Sans-Serif;
 }
 
 p {
