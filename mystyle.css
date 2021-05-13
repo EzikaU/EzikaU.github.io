@@ -1,3 +1,77 @@
 body {
-  background-color: #5c87b2;
+    background-color:#BAD3E4;
+    font-family: Helvetica, Verdana, Sans-Serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight:bold;
+    color:#00FF00;
+    background-color:yellow;
+	font-family: Verdana, Sans-Serif;
+}
+
+p {
+    margin-bottom: 20px;
+    line-height: 1.6em;
+	font-family: Georgia, Helvetica, Verdana, Sans-Serif;
+}
+
+ul a {
+    
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover{
+    color:black;
+    text-decoration: underline;
+    font-weight:bolder;
+}
+
+a:link {
+    color: #034af3;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #505abc;
+}
+
+a:hover {
+    color: #1d60ff;
+    text-decoration: none;
+}
+
+a:active {
+    color: #12eb87;
+}
+
+
+.rahmen{
+    border: 2px dashed black;
+}
+.center{
+    text-align: center
+}
+
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+.header
+{
+    position:absolute;
+    height: 30px;
+    top: 0px;
+    left: 0px;
+    background-color: lime;
+    width: 100%;
+    }
+
+.footer{
+width:100%;
+position:fixed;
+bottom:0;
+height:125px;
+background-image: url("DiaStreifen.jpg");
+
 }
