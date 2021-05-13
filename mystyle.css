@@ -47,9 +47,6 @@ a:active {
 #videoframe{
 	width="560";
 	height="315";
-	src="images/Aquarium.mp4";
-	allow="autoplay";
-	allowfullscreen;
 }
 
 .center{
