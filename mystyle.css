@@ -19,12 +19,13 @@ ul a {
     text-decoration: none;
     margin-bottom: 20px;
     font-size: 24px;
+    font-weight: 500;
     list-style-position: inside;	
 }
 
 li {
-    font-weight:bolder;
-    margin-bottom: 10px;
+    font-weight:lighter;
+    margin-bottom: 20px;
 }
 
 a:link {
