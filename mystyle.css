@@ -11,19 +11,21 @@ h1,h2,h3,h4,h5,h6 {
 
 p {
     margin-bottom: 20px;
-    line-height: 1.6em;
+    line-height: 50%;
     font-family: Georgia, Helvetica, Verdana, Sans-Serif;
 }
 
 ul a {
     color: white;
     text-decoration: none;
+    line-height: 70%;
 }
 
 li a:hover{
     color:black;
     text-decoration: underline;
     font-weight:bolder;
+    line-height: 70%;
 }
 
 a:link {
@@ -44,20 +46,18 @@ a:active {
     color: #12eb87;
 }
 
-#videoframe{
-	width="560";
-	height="315";
-}
 
-.center{
-    text-align: center
-}
 
 /* PRIMARY LAYOUT ELEMENTS   
 ----------------------------------------------------------*/
 
 .header{    
-	background-image: url("images/footer.png"); 
+	background-image: url("images/footer.png");
+	position:absolute;
+   	 height: 200px;
+   	 top: 0px;
+   	 left: 0px;
+   	 width: 100%;
  }
 
 .footer{
