@@ -12,11 +12,10 @@ h1,h2,h3,h4,h5,h6 {
 p {
     margin-bottom: 20px;
     line-height: 1.6em;
-	font-family: Georgia, Helvetica, Verdana, Sans-Serif;
+    font-family: Georgia, Helvetica, Verdana, Sans-Serif;
 }
 
 ul a {
-    
     color: white;
     text-decoration: none;
 }
@@ -53,15 +52,9 @@ a:active {
 /* PRIMARY LAYOUT ELEMENTS   
 ----------------------------------------------------------*/
 
-.header
-{
-    position:absolute;
-    height: 200px;
-    top: 0px;
-    left: 0px;
-    background-image: url("footer.png");
-    width: 100%;
-    }
+.header{    
+	background-image: url("image\footer.png");
+ }
 
 .footer{
 width:100%;
