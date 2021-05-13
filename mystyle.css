@@ -11,21 +11,20 @@ h1,h2,h3,h4,h5,h6 {
 
 p {
     margin-bottom: 20px;
-    line-height: 50%;
+    line-height: 1.6em;
     font-family: Georgia, Helvetica, Verdana, Sans-Serif;
 }
 
 ul a {
-    color: white;
     text-decoration: none;
-    line-height: 70%;
+    margin-bottom: 20px;
+    font-size: 24px;
+    list-style-position: inside;	
 }
 
-li a:hover{
-    color:black;
-    text-decoration: underline;
+li {
     font-weight:bolder;
-    line-height: 70%;
+    margin-bottom: 10px;
 }
 
 a:link {
