@@ -15,6 +15,15 @@ p {
     font-family: Georgia, Helvetica, Verdana, Sans-Serif;
 }
 
+ ul {
+    text-align: center
+}
+
+
+li {
+    margin-bottom: 20px;
+    display: inline
+}
 
 td {
   border-bottom: 1px solid #ddd;
