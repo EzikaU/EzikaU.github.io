@@ -60,6 +60,7 @@ a:active {
 .list .mainlist li {
     font-weight: bold;
     margin-bottom: 20px;
+    display:inline-block
 }
 
 .list .mainlist li li {
