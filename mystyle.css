@@ -44,27 +44,29 @@ a:active {
     color: #12eb87;
 }
 
-.center{
-    text-align: center
-}
+
 
 /* PRIMARY LAYOUT ELEMENTS   
 ----------------------------------------------------------*/
-
-.header{    
-	background-image: url("images/footer.png");
-	position:absolute;
-   	 height: 200px;
-   	 top: 0px;
-   	 left: 0px;
-   	 width: 100%;
+ 
+.header {
+    position:absolute;
+    height: 30px;
+    top: 0px;
+    left: 0px;
+    background-color: #7dbae3;
+    width: 100%;
  }
+
+.center{
+    text-align: center
+}
 
 .footer{
 width:100%;
 position:fixed;
 bottom:0;
 height:125px;
-background-image: url("footer.PNG");
+background-color: #7dbae3;
 
 }
