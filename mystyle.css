@@ -14,8 +14,9 @@ p {
     line-height: 1.6em;
     font-family: Georgia, Helvetica, Verdana, Sans-Serif;
 }
-
-	ul{display:table; text-align:center; margin:0 auto;}
+ul {display:table; text-align:center; margin:0 auto; margin-bottom: 20px;
+	font-weight: bold;
+}
 li{display:inline-block; text-align:center;}
 li.items_inside_li{display:inline-block; vertical-align:middle;}
 
