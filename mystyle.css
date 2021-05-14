@@ -78,16 +78,18 @@ a:active {
     padding: 20px 10px;
  }
 
-.center{
+.center {
+   text-align: center
+}
+
+.table {
   margin-left: auto;
   margin-right: auto;
 }
 
-.footer{
-width:100%;
-position:fixed;
-bottom:0;
-height:125px;
-background-color: #7dbae3;
+.footer {
+    overflow: hidden;
+    background-color: #7dbae3;
+    padding: 20px 10px;
 
 }
