@@ -15,15 +15,21 @@ p {
     font-family: Georgia, Helvetica, Verdana, Sans-Serif;
 }
 
-ul a {
-    margin-bottom: 20px;
+ul {
     font-weight: bold;
-    list-style-position: inside;	
+    list-style-position: inside;
+    display: inline
 }
+
 
 li {
     font-weight:lighter;
     margin-bottom: 20px;
+    display: inline
+}
+
+a {
+    font-weight: bold;
 }
 
 a:link {
