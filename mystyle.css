@@ -55,7 +55,9 @@ a:active {
 }
 
  .list {
-      text-align: center;
+    display: flex;
+	align-items: center;
+	justify-content: center;
 }
 .list .mainlist li {
     font-weight: bold;
