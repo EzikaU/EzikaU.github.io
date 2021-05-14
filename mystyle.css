@@ -15,17 +15,9 @@ p {
     font-family: Georgia, Helvetica, Verdana, Sans-Serif;
 }
 
-ul {
-    font-weight: bold;
-    text-align: center;
-    list-style-position: inside;
-}
-
-
-li {
-    font-weight:lighter;
-    margin-bottom: 20px;
-}
+	ul{display:table; text-align:center; margin:0 auto;}
+li{display:inline-block; text-align:center;}
+li.items_inside_li{display:inline-block; vertical-align:middle;}
 
 td {
   border-bottom: 1px solid #ddd;
