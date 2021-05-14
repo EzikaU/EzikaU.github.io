@@ -54,18 +54,18 @@ a:active {
     height: auto;
 }
 
- .list {
-      text-align: center;
-}
+
 .list .mainlist li {
     font-weight: bold;
     margin-bottom: 20px;
-    display:inline-block
+    display:inline-block;
+    text-align: center
 }
 
 .list .mainlist li li {
     font-weight: lighter;
     margin-bottom: 20px;
+    display:inline-block; vertical-align:middle;
 }
 
 /* PRIMARY LAYOUT ELEMENTS   
