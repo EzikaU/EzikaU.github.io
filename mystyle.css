@@ -17,7 +17,9 @@ p {
 
 ul {
     font-weight: bold;
-    display: inline
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
 }
 
 
