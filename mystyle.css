@@ -49,19 +49,6 @@ a:active {
   margin-right: auto;
 }
 
-.pcenter {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-#pos {
-    width: 500px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
  .list {
     display: flex;
     align-items: center;
