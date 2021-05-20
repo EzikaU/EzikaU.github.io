@@ -54,6 +54,10 @@ a:active {
   height: auto;
 }
 
+#pos {
+    width: 500px
+}
+
  .list {
     display: flex;
     align-items: center;
