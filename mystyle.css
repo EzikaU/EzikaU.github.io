@@ -98,7 +98,9 @@ a:active {
     overflow: hidden;
     background-color: #7dbae3;
     padding: 20px 10px;
-    text-align: right
+    text-align: right;
+    font-weight:bold;
+    color: white;    
  }
 
 .center {
