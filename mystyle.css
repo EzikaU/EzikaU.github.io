@@ -71,11 +71,18 @@ a:active {
 
 /* PRIMARY LAYOUT ELEMENTS   
 ----------------------------------------------------------*/
+
+.striph {
+    overflow: hidden;
+    background-color: #7dbae3;
+    padding: 30px 10px;
+ }
  
-.strip {
+.stripf {
     overflow: hidden;
     background-color: #7dbae3;
     padding: 20px 10px;
+    text-align: right
  }
 
 .center {
