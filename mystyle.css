@@ -50,14 +50,9 @@ a:active {
 }
 
 .pcenter {
-  display: table;
-  width:500px;
-  height: 10em;
-}
-
-.pcenter p {
-    display: table-cell;
-    vertical-align: middle;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #pos {
