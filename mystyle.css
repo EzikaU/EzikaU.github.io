@@ -56,14 +56,15 @@ a:active {
 
  .list {
     display: flex;
-	align-items: center;
-	justify-content: center;
+    align-items: center;
+    justify-content: center;
 }
 .list .mainlist li {
     font-weight: bold;
 }
 
 .list .mainlist li li {
+    font-weight: lighter;
     margin-bottom: 20px;
 }
 
@@ -73,11 +74,10 @@ a:active {
 .striph {
     overflow: hidden;
     background-color: #7dbae3;
-    padding: 20px 10px;
  }
 
 .topnav a {
-  float: right;
+  float: left;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
