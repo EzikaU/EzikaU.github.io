@@ -12,6 +12,7 @@ h1,h2,h3,h4,h5,h6 {
 p {
     margin-bottom: 20px;
     line-height: 1.6em;
+    color: white;
     font-family: Georgia, Helvetica, Verdana, Sans-Serif;
 }
 
